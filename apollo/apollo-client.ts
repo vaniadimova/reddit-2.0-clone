@@ -1,7 +1,7 @@
 import { ApolloClient, InMemoryCache } from '@apollo/client'
 
 export const client = new ApolloClient({
- uri: 'https://piritiba.stepzen.net/api/fallacious-rabbit/__graphql',
+ uri: 'http://localhost:5001/api/fallacious-rabbit',
  cache: new InMemoryCache(),
     headers: {
         Authorization: `Apikey ${process.env.NEXT_PULIC_STEPZEN_KEY}`

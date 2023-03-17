@@ -13,10 +13,14 @@
     "graphql": "^16.5.0",
     "next": "latest",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "next-auth": "^4.20.1",
 =======
     "next-auth": "^4.9.0",
 >>>>>>> d9d3d8ce8690a05876731ece7a70554f716701fe
+=======
+    "next-auth": "^4.20.1",
+>>>>>>> d1913aa6c0d769a094fd120b2ca802c636ca23ee
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hook-form": "^7.31.2",
